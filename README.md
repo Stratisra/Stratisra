@@ -6,7 +6,7 @@ High School Student and AI enthousiast
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [stratisra@gmail.com](mailto:stratisra@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm currently learning Machine Learning
 
 ### Skills
 
