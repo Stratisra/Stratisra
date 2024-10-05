@@ -1,11 +1,11 @@
 Hi 👋 My name is Stratis Rallis
 ===============================
 
-High School Student and AI enthousiast
+High School Student and AI enthusiast
 --------------------------------------
 
 * 🌍  I'm based in Greece
-* ✉️  You can contact me at [stratisra@gmail.com](mailto:erallis@athenscollege.edu.gr)
+* ✉️  You can contact me at [erallis@athenscollege.edu.gr](mailto:erallis@athenscollege.edu.gr)
 * 🧠  I'm currently learning Machine Learning
 
 ### Skills
