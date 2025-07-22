@@ -5,7 +5,7 @@ High School Student and AI enthusiast
 --------------------------------------
 
 * 🌍  I'm based in Greece
-* ✉️  You can contact me at [erallis@athenscollege.edu.gr](mailto:erallis@athenscollege.edu.gr)
+* ✉️  You can contact me at [stratisra@gmail.com](mailto:stratisra@gmail.com)
 * 🧠  I'm currently learning Machine Learning
 
 ### Skills
