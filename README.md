@@ -1,7 +1,7 @@
 Hi 👋 My name is Stratis Rallis
 ===============================
 
-High School Student and AI enthusiast
+Undergraduate Student and AI enthusiast
 --------------------------------------
 
 * 🌍  I'm based in Greece
