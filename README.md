@@ -5,6 +5,7 @@ Undergraduate Student and AI enthusiast
 --------------------------------------
 
 * 🌍  I'm based in Greece
+* 🖥️  Studying Electrical Engineering and Computer Science @ NTUA
 * ✉️  You can contact me at [stratisra@gmail.com](mailto:stratisra@gmail.com)
 * 🧠  I'm currently learning Machine Learning
 
